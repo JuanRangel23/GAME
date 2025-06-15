@@ -21,6 +21,7 @@ Seleccion de personajes
 ![image](https://github.com/user-attachments/assets/5e3adaa5-03f5-4704-8b68-171128d8b5ef)
 
 Batalla
+
 ![image](https://github.com/user-attachments/assets/6e353052-3e11-44ae-a296-22a5dc052cb9)
 
 ## Requisitos
