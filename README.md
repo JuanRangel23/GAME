@@ -14,7 +14,7 @@ Este es un juego de combate por turnos desarrollado con **Python** y la librerí
 
 ## 📸 Capturas de pantalla
 
-![image](https://github.com/user-attachments/assets/f3065a80-c78c-4a7f-857c-c1aa93437248)
+![image](https://github.com/user-attachments/assets/28f1c2ee-6c48-4fec-9b67-fe5fe5f19c33)
 
 Seleccion de personajes
 
